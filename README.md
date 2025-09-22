@@ -25,3 +25,18 @@ final/
 │ └── index.html # Frontend UI
 │── saved_models/ # Trained model folder or file
 │── README.md # Project documentation
+
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+
+   git clone https://github.com/Yash-Kesharwani1/potatodiseaseclassification.git
+   cd plant-disease-classifier/final
+
+2. **Create and activate virtual environment**
+    python -m venv .venv
+    source .venv/bin/activate   # Linux/Mac
+    .venv\Scripts\activate      # Windows
